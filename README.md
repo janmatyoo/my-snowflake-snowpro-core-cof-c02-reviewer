@@ -65,6 +65,9 @@ Contains all the key concepts for Snowflake SnowPro Core COF-C02 Certification
 ### When does load metadata for a table expire - [Source](https://docs.snowflake.com/en/user-guide/data-load-considerations-load#load-metadata)
 - 64 Days
 
+# Snowsight Query History expiration - [Source](https://docs.snowflake.com/en/user-guide/ui-snowsight-activity#query-history)
+- 14 Days
+
 ---
 # Data Governance
 ## Object Tagging
