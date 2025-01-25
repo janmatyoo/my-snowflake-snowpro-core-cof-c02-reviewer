@@ -58,7 +58,7 @@ Contains all the key concepts for Snowflake SnowPro Core COF-C02 Certification
 
 ---
 ## Data Loading and Unloading
-### When does load metadata for a table expire- [Source](https://docs.snowflake.com/en/user-guide/data-load-considerations-load#load-metadata)
+### When does load metadata for a table expire - [Source](https://docs.snowflake.com/en/user-guide/data-load-considerations-load#load-metadata)
 - 64 Days
 
 
