@@ -53,7 +53,7 @@ Contains all the key concepts for Snowflake SnowPro Core COF-C02 Certification
 ## Data Sharing
 ### What data-sharing services does Snowflake provide - [Source](https://docs.snowflake.com/en/guides-overview-sharing)
 - Direct Sharing
-- Snowflake Marketplace
+- Snowflake Marketplace | Listings
 - Data Exchange
 
 ---
